@@ -17,3 +17,5 @@ maliyet = lot_sayisi * alis_fiyati
 suankiDeger = lot_sayisi * guncel_fiyati
 
 
+print("maliyet = ",maliyet)
+print("suankiDeger = ",suankiDeger)
