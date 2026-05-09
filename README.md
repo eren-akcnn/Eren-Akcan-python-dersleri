@@ -19,9 +19,8 @@ necmettin erbakan üniversitesinde matematik ve bilgisayar bilimleri 1. sınıf 
 * 🐍 **Backend:** Python ve algoritma geliştirme süreçlerine odaklıyım.
 * 📐 **Matematik:** Sayısal analiz ve mantıksal modelleme üzerine kendimi geliştiriyorum.
 
----
 
-## 📫 İLETİŞİM
-[LinkedIn](https://www.linkedin.com/in/eren-akcan) | [Mail](akcaneren18@gmail.com)
+
+
 
 
