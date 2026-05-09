@@ -4,33 +4,24 @@ necmettin erbakan üniversitesinde matematik ve bilgisayar bilimleri 1. sınıf 
 ![Eren'in GitHub Serisi](https://github-readme-streak-stats.herokuapp.com/?user=eren-akcnn&theme=radical)
 
 # 🚀 SELAM, BEN EREN! 👋
-### 🎓 Matematik ve Bilgisayar Bilimleri @ Necmettin Erbakan Üniversitesi
+### 🎓 Matematik ve Bilgisayar Bilimleri bölümünde Necmettin Erbakan Üniversitesinde okuyorum 
 
 ---
 
-## 💻 TEKNOLOJİK YETKİNLİKLER
+## 💻 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GİTHUB İSTATİSTİKLERİM
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
 ## 🛠 NELERLE UĞRAŞIYORUM?
-* 🐍 **Backend:** Python ile sistem mimarileri üzerine çalışıyorum.
-* 📐 **Matematik:** Algoritmaların arkasındaki o derin mantığı çözmek hobim.
-* 🏎 **Mekanik:** Broadway restorasyonu ile dijital dünyadan fiziksel dünyaya geçiş yapıyorum.
+* 🐍 **Backend:** Python ve algoritma geliştirme süreçlerine odaklıyım.
+* 📐 **Matematik:** Sayısal analiz ve mantıksal modelleme üzerine kendimi geliştiriyorum.
 
 ---
 
-## 📫 BANA ULAŞIN
-[LinkedIn Profilim](https://www.linkedin.com/in/KULLANICI_ADIN) | [E-Posta](mailto:eren@email.com)
+## 📫 İLETİŞİM
+[LinkedIn](https://www.linkedin.com/in/eren-akcan) | [Mail](akcaneren18@gmail.com)
 
-Nasıl buldun kanka? "Tokyonight" temasını kullandım, bu siyah profil üzerine çok daha neon ve sert durur. Başka bir şey ekleyelim mi?
+
